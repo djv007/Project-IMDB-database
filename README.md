@@ -1,5 +1,7 @@
 # Project-IMDB-database
 
+IMDB.sqlite database contains all details of movies and has three tables with name IMDB, genre and earning.
+
 ## Tools and Language used : 
 
 Python pandas , sqlite3 , matplotlib packages with sql commands have been used .  
